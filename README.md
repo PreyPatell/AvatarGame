@@ -10,6 +10,8 @@ Avatar the Last Airbender themed 2D game created using Pygame library from Pytho
  
 ### Video Tutorial
 
+![avatar_project](https://github.com/PreyPatell/AvatarGame/assets/84814013/42da73b3-c8f9-4822-9d7d-88e6ec4c70cb)
+
 https://youtu.be/508rjnef5mo
 
 ### Planning & Modelling
