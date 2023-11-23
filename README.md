@@ -1,6 +1,12 @@
 ﻿# AvatarGame
 
 Avatar the Last Airbender themed 2D game created using Pygame library from Python
+
+## Technologies
+
+<li>Python</li>
+<li>Pygame</li>
+<li>Object-Orientated Programming</li>
  
 ### Video Tutorial
 
